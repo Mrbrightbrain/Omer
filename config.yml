@@ -18,7 +18,7 @@ engine:
     Slow Mover: 35
     Ponder: true
     Threads: 12
-    Hash: 4096
+    Hash: 256
   silence_stderr: false
 
 abort_time: 100
